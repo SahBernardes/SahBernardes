@@ -1,5 +1,5 @@
  👋 Hi, I’m **Sarah Bernardes** 👋 
-- I’m taking the faculty of systems analysis and development through UNINTER
+- - I have a degree in systems analysis and development from UNINTER
 - I’m currently learning python, javascript, php and MySQL
 - I’m looking to learn and collaborate where i can be useful
 
